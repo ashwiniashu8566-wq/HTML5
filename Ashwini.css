@@ -1,0 +1,22 @@
+.box1 {
+    background-color: pink;
+    padding: 20px;
+}
+
+.box2 {
+    background-color: lightblue;
+    padding: 20px;
+}
+
+.box3 {
+    background-color: lightgreen;
+    padding: 20px;
+}
+
+.box4 {
+    background-color: yellow;
+    padding: 20px;
+}
+#h{
+    color: blueviolet;
+}
